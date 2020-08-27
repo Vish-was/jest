@@ -1,0 +1,24 @@
+{
+  "name": "jest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vish-was/jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vish-was/jest/issues"
+  },
+  "homepage": "https://github.com/Vish-was/jest#readme"
+}
